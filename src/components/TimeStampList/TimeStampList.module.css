@@ -1,0 +1,6 @@
+.time-stamp-list {
+  width: 100px;
+  border: 2px solid transparent;
+  box-sizing: border-box;
+  overflow-y: scroll;
+}

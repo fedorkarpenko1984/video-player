@@ -1,0 +1,20 @@
+.time-stamp {
+  display: block;
+  padding: 0 10px;
+  width: 100%;
+  background: rgba(150, 120, 90, 0.7);;
+  outline: none;
+  border: none;
+  color: rgb(13, 22, 24);
+  font-family: monospace;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+  transition: background 0.5s;
+}
+
+.time-stamp:hover {
+  background: rgba(200, 200, 200, 0.7);
+  transition: background 0.5s;
+} 
